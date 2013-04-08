@@ -4,4 +4,9 @@ python:
   - 2.7
   - 3.2
   - 3.3
+branches:
+  only:
+    - master
+    - develop
+    - /^feature-.*$/
 script: make test
