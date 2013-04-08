@@ -1,6 +1,8 @@
 Django Mongo Database URL
 =========================
 
+[![Build Status (master)](https://travis-ci.org/RyanBalfanz/django-mongo-database-url.png?branch=master)](https://travis-ci.org/RyanBalfanz/django-mongo-database-url)
+
 [![Build Status (develop)](https://travis-ci.org/RyanBalfanz/django-mongo-database-url.png?branch=develop)](https://travis-ci.org/RyanBalfanz/django-mongo-database-url)
 
 
